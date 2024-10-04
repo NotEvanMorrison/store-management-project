@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You are opening a new business in your community! Businesses often need programs to manage the products and services they offer and track orders and requests from customers. Your goal is to create a store management system for your business.
+I am opening a new business in my community! Businesses often need programs to manage the products and services they offer and track orders and requests from customers. My goal is to create a store management system for my business.
 
 ## Requirements
 
@@ -15,9 +15,7 @@ Use your knowledge of object-oriented programming and class structure and design
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here.
-
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](image.png)
 
 ## Description
 
