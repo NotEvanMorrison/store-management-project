@@ -15,7 +15,7 @@ Use your knowledge of object-oriented programming and class structure and design
 
 ## UML Diagram
 
-![](image.png)
+![My UML Diagram for My Store](image.png)
 
 ## Description
 
